@@ -81,13 +81,13 @@
 
 | 🏠 Welcome Screen | 🤖 Extraction in Action |
 |:-:|:-:|
-| <img src="welcome.png" width="440" alt="Welcome Screen"/> | <img src="chat.png" width="440" alt="AI Extraction Demo"/> |
+| <img src="assets/welcome.png" width="440" alt="Welcome Screen"/> | <img src="assets/chat.png" width="440" alt="AI Extraction Demo"/> |
 
 <br/>
 
-| 🧠 Structured Mode — Card UI | 😶 Empty / Error State |
+| 🧠 Structured Mode — Card UI | ⚠️ Empty / Error State |
 |:-:|:-:|
-| <img src="robot.png" width="440" alt="Structured Mode Cards"/> | <img src="sad.png" width="440" alt="Error State"/> |
+| <img src="assets/structured.png" width="440" alt="Structured Mode Cards"/> | <img src="assets/error.png" width="440" alt="Error State"/> |
 
 </div>
 
