@@ -498,8 +498,10 @@ See [`LICENSE`](LICENSE) for full details.
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/anmoldhiman17?v=4" width="100" height="100" style="border-radius: 50%; border: 3px solid #a78bfa;" alt="Anmol Dhiman"/>
-
+<img src="https://github.com/anmoldhiman17.png" 
+     width="110" 
+     style="border-radius:50%; border:3px solid #a78bfa;" 
+     alt="Anmol Dhiman"/>
 <br/><br/>
 
 **Anmol Dhiman**
